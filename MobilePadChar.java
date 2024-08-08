@@ -1,3 +1,5 @@
+public class MobKeybord
+{
 public static void mobPad(String bef,String aft)
 	{
 		if (aft.isEmpty()) {
@@ -32,3 +34,5 @@ public static void mobPad(String bef,String aft)
 
         return ans;
     }
+
+}
